@@ -70,3 +70,6 @@ For Sparkify, use Song and Log source files and load them into star schema dataw
 4. Catchup is turned off
 
 5. Does not email on retry
+
+### DAG GraphView:
+![Screenshot](DAG.png)
